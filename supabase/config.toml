@@ -1,0 +1,4 @@
+project_id = "carewatch"
+
+[functions.ingest-vitals]
+verify_jwt = false
